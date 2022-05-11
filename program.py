@@ -5,3 +5,4 @@ print('xd 4')
 # to komentarz
 print('xd 5')
 # trzeba pomyśleć
+# a może jednak nie
