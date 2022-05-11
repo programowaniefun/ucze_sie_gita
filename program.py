@@ -6,3 +6,4 @@ print('xd 4')
 print('xd 5')
 # trzeba pomyśleć
 # a może jednak nie
+# coś skrobnę tu jeszcze
